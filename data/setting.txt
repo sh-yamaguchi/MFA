@@ -1,0 +1,8 @@
+mean_plane 5
+origin 2
+x_axis 5
+alignment 012346
+grid_x 6
+grid_y 8
+grid_z 8
+threshold 0.01
