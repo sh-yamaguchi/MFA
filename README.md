@@ -1,3 +1,16 @@
+# Commercial Use and Intellectual Property Notice
+This repository provides an academic reference implementation of Molecular Field Analysis (MFA).
+The source code is provided under the MIT License. If you are considering database-integrated use, continuous internal use or rollout within a company, commercial use, or use of the web application provided by Molecular Catalyst Design Inc., please contact Molecular Catalyst Design Inc.
+Some related technologies, systems, workflows, or implementations may be subject to intellectual property rights owned by or licensed from RIKEN and/or Molecular Catalyst Design Inc.
+For more information, please visit:
+https://mcdchem.com
+
+# 商用利用・知的財産に関する注意
+本リポジトリは、Molecular Field Analysis（MFA）の研究用参照実装です。
+ソースコードはMIT Licenseに基づき提供されています。データベース連携、企業内での継続的な利用・展開、商用目的での利用、またはMolecular Catalyst Design Inc.が提供するWebアプリケーションの導入・利用をご検討の場合は、Molecular Catalyst Design Inc.までお問い合わせください。
+関連する技術、システム、ワークフロー、または実装には、理化学研究所および/またはMolecular Catalyst Design Inc.が保有または許諾を受ける知的財産権が関係する場合があります。
+https://mcdchem.com
+
 MFA (Molecular Field Analysis) in asymmetric catalysis for Mac OS. As an example, the MFA of the asymmetric fluorination reactions (Ref 2) is described.
 
 # Dependency
